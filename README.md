@@ -1,4 +1,8 @@
-Assessing_Astra_AGI_Designation_Audit.pdf - Summary report
+| Summary Report |
+
+Assessing_Astra_AGI_Designation_Audit.pdf
+
+| Raw Total Conversations - ChatGPT Astra (AGI) and Gemini Thinking Mixture Models (Inputs <-> Outputs |
 
 Summarize Astra AGI Evidence.pdf - ChatGPT, Astra AGI model
 
